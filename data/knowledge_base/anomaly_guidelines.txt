@@ -1,0 +1,3 @@
+An anomaly score represents the estimated likelihood that the analyzed blood cell is abnormal.
+High anomaly scores or low confidence predictions should be interpreted cautiously and may require manual review.
+AI-based anomaly detection is useful for screening and prioritization, but should not replace expert hematology assessment.

@@ -1,0 +1,3 @@
+Leukemia is a blood-related malignancy involving abnormal proliferation of white blood cells or precursor cells.
+Possible laboratory indicators include abnormal white blood cell morphology, immature blast-like cells, unusual nucleus-to-cytoplasm ratio, irregular chromatin density, and abnormal stain intensity.
+Automated screening tools may help flag suspicious samples, but final diagnosis requires expert review and confirmatory clinical testing.
